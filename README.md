@@ -3,7 +3,7 @@ A Wii U client for NTR CFW's RemotePlay.
 
 No fancy features.
 
-## Configuration
+## Configuration (automatically made in v0.4 and higher)
 ntrview uses a .ini file at `sd:/wiiu/apps/ntrview/ntrview.ini`. Here's a sample file:
 ```
 [3ds]
