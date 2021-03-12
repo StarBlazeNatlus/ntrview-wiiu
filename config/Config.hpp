@@ -29,9 +29,9 @@ public:
     NetworkConfig networkconfig;
 
     Gfx::rgb background = {
-        .r = 0x20,
-        .g = 0x00,
-        .b = 0x27,
+        .r = 0x08,
+        .g = 0x17,
+        .b = 0x2d,
     };
 
     size_t profile = 0;
